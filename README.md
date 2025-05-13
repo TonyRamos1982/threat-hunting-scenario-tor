@@ -38,7 +38,8 @@ DeviceFileEvents
 | order by Timestamp desc
 
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/71402e84-8767-44f8-908c-1805be31122d">
+![image](https://github.com/user-attachments/assets/f141bd42-e6fd-4f3e-800c-9c23eddd1697)
+
 
 ---
 
